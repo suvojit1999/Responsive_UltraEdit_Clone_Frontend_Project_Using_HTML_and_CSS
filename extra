@@ -1,0 +1,28 @@
+.uppercon > .heading{
+    width: 700px;
+    height: 100px;
+    grid-area: bt;
+    border: 2px solid blue;
+    font-size: 38px;
+}
+.uppercon > .heading > span{
+    font-weight: bold;
+}
+.uppercon > .ima{
+    width: 100px;
+    /* height: 50px; */
+    grid-area: ima;
+    border: 2px solid blue;
+}
+.uppercon > .pu{
+    width: 1000px;
+    height: 100px;
+    grid-area: st;
+    border: 2px solid blue;
+}
+.uppercon > .au {
+    width: 300px;
+    /* height: 100px; */
+    grid-area: but;
+    border: 2px solid blue;
+}
